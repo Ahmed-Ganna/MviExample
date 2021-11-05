@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MviExample</string>
+    <string name="fetch_user">Fetch user</string>
+</resources>
